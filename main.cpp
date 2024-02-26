@@ -1,5 +1,3 @@
-大二期末程序设计（未完成）
-
 #include <stdio.h>
 #include<stdlib.h>
 #include<conio.h>
